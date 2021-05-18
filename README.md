@@ -6,7 +6,7 @@ An application to search for github users using Reactjs and Firebase (authentica
 
 ![image](https://user-images.githubusercontent.com/65223389/118636311-2f644080-b7f2-11eb-9749-92c7dd0f9d12.png)
 
-Project - https://mygitapp-a4f9d.web.app/profile/asdf
+Project - https://mygitapp-a4f9d.web.app/
 
 Firebase -  https://firebase.google.com/ <br />
 React - https://reactjs.org/
