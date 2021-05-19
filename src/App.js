@@ -12,6 +12,7 @@ import Sigin from './pages/Signin';
 import Signup from './pages/Signup';
 import Header from './Components/Header';
 import Profile from './pages/Profile';
+import Loading from './Components/Loading'
 
 import firebase from 'firebase/app';
 import 'firebase/auth'
