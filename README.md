@@ -2,6 +2,7 @@
 
 An application to search for github users using Reactjs and Firebase (authentication)
 
+![image](https://user-images.githubusercontent.com/65223389/136826036-3d71dceb-db93-4215-9ff1-e53bf79f0021.png)
 
 
 ![image](https://user-images.githubusercontent.com/65223389/118636311-2f644080-b7f2-11eb-9749-92c7dd0f9d12.png)
